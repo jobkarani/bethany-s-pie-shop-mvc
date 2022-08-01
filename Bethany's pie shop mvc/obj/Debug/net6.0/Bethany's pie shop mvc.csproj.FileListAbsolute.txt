@@ -1,0 +1,21 @@
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\bin\Debug\net6.0\appsettings.json
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\bin\Debug\net6.0\Bethany's pie shop mvc.exe
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\bin\Debug\net6.0\Bethany's pie shop mvc.deps.json
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\bin\Debug\net6.0\Bethany's pie shop mvc.runtimeconfig.json
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\bin\Debug\net6.0\Bethany's pie shop mvc.dll
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\bin\Debug\net6.0\Bethany's pie shop mvc.pdb
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.csproj.AssemblyReference.cache
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.AssemblyInfoInputs.cache
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.AssemblyInfo.cs
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.csproj.CoreCompileInputs.cache
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\scopedcss\bundle\Bethany's pie shop mvc.styles.css
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.dll
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\refint\Bethany's pie shop mvc.dll
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.pdb
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.genruntimeconfig.cache
+C:\Users\Job\source\repos\Bethany's pie shop mvc\Bethany's pie shop mvc\obj\Debug\net6.0\ref\Bethany's pie shop mvc.dll
