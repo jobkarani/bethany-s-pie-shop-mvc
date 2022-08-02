@@ -40,3 +40,5 @@ C:\Users\Job\Source\Repos\bethany-s-pie-shop-mvc\Bethany's pie shop mvc\obj\Debu
 C:\Users\Job\Source\Repos\bethany-s-pie-shop-mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.pdb
 C:\Users\Job\Source\Repos\bethany-s-pie-shop-mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.genruntimeconfig.cache
 C:\Users\Job\Source\Repos\bethany-s-pie-shop-mvc\Bethany's pie shop mvc\obj\Debug\net6.0\ref\Bethany's pie shop mvc.dll
+C:\Users\Job\source\repos\bethany-s-pie-shop-mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.RazorAssemblyInfo.cache
+C:\Users\Job\source\repos\bethany-s-pie-shop-mvc\Bethany's pie shop mvc\obj\Debug\net6.0\Bethany's pie shop mvc.RazorAssemblyInfo.cs
