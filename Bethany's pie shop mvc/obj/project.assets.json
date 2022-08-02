@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Job\\source\\repos\\Bethany's pie shop mvc\\Bethany's pie shop mvc\\Bethany's pie shop mvc.csproj",
+      "projectUniqueName": "C:\\Users\\Job\\Source\\Repos\\bethany-s-pie-shop-mvc\\Bethany's pie shop mvc\\Bethany's pie shop mvc.csproj",
       "projectName": "Bethany's pie shop mvc",
-      "projectPath": "C:\\Users\\Job\\source\\repos\\Bethany's pie shop mvc\\Bethany's pie shop mvc\\Bethany's pie shop mvc.csproj",
+      "projectPath": "C:\\Users\\Job\\Source\\Repos\\bethany-s-pie-shop-mvc\\Bethany's pie shop mvc\\Bethany's pie shop mvc.csproj",
       "packagesPath": "C:\\Users\\Job\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Job\\source\\repos\\Bethany's pie shop mvc\\Bethany's pie shop mvc\\obj\\",
+      "outputPath": "C:\\Users\\Job\\Source\\Repos\\bethany-s-pie-shop-mvc\\Bethany's pie shop mvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Job\\AppData\\Roaming\\NuGet\\NuGet.Config",
