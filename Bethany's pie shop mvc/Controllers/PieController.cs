@@ -1,6 +1,7 @@
-﻿using Bethany_s_pie_shop_mvc.Models;
-/*using Bethany_s_pie_shop_mvc.ViewModels;*/ 
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using Bethany_s_pie_shop_mvc.Models;
+using Bethany_s_pie_shop_mvc.ViewModel; 
+
 
 namespace Bethany_s_pie_shop_mvc.Controllers
 {
@@ -17,12 +18,11 @@ namespace Bethany_s_pie_shop_mvc.Controllers
 
         public IActionResult List()
         {
-            //ViewBag.CurrentCategory = "Cheese cakes";
+               /* ViewBag.CurrentCategory = "Cheese cakes";
+                return View(_pieRepository.AllPies);*/
 
-                return View(_pieRepository.AllPies);
-
-            /*PieListViewModel piesListViewModel = new PieListViewModel(_pieRepository.AllPies, "Cheese cakes");
-            return View(piesListViewModel);*/
+            PieListViewModel piesListViewModel = new PieListViewModel(_pieRepository.AllPies, "Cheese cakes");
+            return View(piesListViewModel);
         }
     }
 }
