@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bethanys pie shop mvc/1.0.0": {
+        "runtime": {
+          "Bethanys pie shop mvc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bethanys pie shop mvc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
